@@ -83,3 +83,7 @@ live and land in Git:
 git clone git@github.com:yungweng/ystack.git
 ln -s "$PWD/ystack/skills/test-audit" ~/.claude/skills/test-audit
 ```
+
+## License
+
+[MIT](LICENSE)
