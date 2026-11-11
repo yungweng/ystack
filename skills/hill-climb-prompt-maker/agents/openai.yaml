@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hill Climb Prompt Maker"
+  short_description: "Messbare Optimierungsloops als fertige Prompts"
+  default_prompt: "Nutze $hill-climb-prompt-maker, um aus meinem Ziel einen ausführbaren, kontextbezogenen Hill-Climb-Prompt zu erstellen."
