@@ -30,6 +30,17 @@ with `npx skills add yungweng/ystack --list`. Update later with
 | `test-audit` | Finds and removes low-value, duplicative or implementation-coupled tests |
 | `pr-merge-prompt` | Turns a list of pull requests into a prompt for a sequential review and merge loop |
 | `hill-climb-prompt-maker` | Writes optimization-loop prompts with baselines, verifiers and stopping rules |
+| `stacked-pr` | Builds, updates and merges stacked pull requests with GitHub's stack API |
+| `creating-team-skills` | Turns a non-obvious solution into a reusable skill for the team |
+| `fix-docker-dependencies` | Fixes "Module not found" errors from stale Docker dependency layers |
+
+### Frontend
+
+| Skill | What it does |
+| --- | --- |
+| `responsive-screenshots` | Screenshots every view at six device sizes and reports horizontal overflow |
+| `ui-before-after` | Captures verified before/after screenshot pairs of a UI change |
+| `optimizing-form-accessibility` | Improves keyboard navigation and focus handling in forms |
 | `canvas-animation` | Builds interactive canvas animations for React and Next.js sites |
 
 ### Writing
